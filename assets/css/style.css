@@ -1,3 +1,5 @@
+/* header and main/home page */
+
 body{
     background-color: #F5F5F5;
 }
@@ -26,8 +28,8 @@ a {
     
 }
 
-.info-text{
-    margin-top: 72px;
+ .info-text{
+    margin-top: 50px;
     color: #000000;
     line-height: 29px;
     font-size: 24px;
@@ -35,12 +37,13 @@ a {
 
 }
 .products-section {
-    padding: 170px 120px 200px 120px;
+   padding: 165px 115px 150px 98px; 
 
 }
 
 .block {
     display: inline-block;
+    margin-right: 30px;
 }
 
 .content {
@@ -59,22 +62,20 @@ a {
     line-height: 24px;
     letter-spacing: 1px;
     margin-left: 10px;
-}
- .content p{
-    font-size: 14px;
-    line-height: 21px;
-    margin-left: 10px;
- }
-
- h2{
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 24px;
+} 
+ 
+ .content p{
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: 10px; 
  }
  
   .block-middle {
-    margin:0 100px;
+    margin:0 98px;
  } 
 
  .product-button button{
@@ -91,6 +92,7 @@ a {
      margin-top: 20px; 
 }
 
+/* contact and about page */
 
 h3{
     color:#7D0000;
