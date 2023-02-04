@@ -43,7 +43,6 @@ a {
 
 .block {
     display: inline-block;
-    margin-right: 30px;
 }
 
 .content {
@@ -51,6 +50,7 @@ a {
     display: inline-block;
     width: 333px;
     padding: 15px 15px 25px 15px;
+    margin-left: 40px;
 }
 
 .content img {
@@ -155,6 +155,7 @@ h3{
 .content_footer{
     margin-top: 62px;
     font-family: 'Open Sans', sans-serif;
+    margin-left: 50px;
 
  } 
 
