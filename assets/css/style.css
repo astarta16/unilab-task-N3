@@ -24,7 +24,7 @@ a {
      text-decoration: none; 
     color: black;
     margin-right: 66px; 
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     
 }
 
@@ -103,11 +103,11 @@ h3{
     line-height: 54px;
     font-size: 40px;
     font-weight: 600;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
 }
  .contact{
     margin-left: 750px;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
  }
 
  .about{
