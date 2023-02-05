@@ -29,12 +29,14 @@ a {
 }
 
  .info-text{
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 600;
     margin-top: 50px;
     color: #000000;
     line-height: 29px;
     font-size: 24px;
     margin-left: 670px;
-    font-weight: 500;
+    
 
 }
 .products-section {
